@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="RatingStar">
+        <attr name="maxRating" format="integer" />
+        <attr name="rating" format="float"/>
+        <attr name="ratable" format="boolean"/>
+    </declare-styleable>
+</resources>
